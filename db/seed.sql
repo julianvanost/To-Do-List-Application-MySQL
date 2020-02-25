@@ -1,0 +1,37 @@
+USE todo_db;
+
+INSERT INTO
+  list (item, isDone)
+VALUES
+  ('Do Homework', false),
+  ('Study JSON Parsing and Stringify', false),
+  ('Learn Handlebars', true),
+  ('Learn React Basics', false),
+  ('Go Grocery Shopping', true),
+  ('Wash Laundry', false),
+  ('Dry Laundry', false),
+  ('Eat Some Ganash', false),
+  ('Get groceries', false),
+  ('Do homework', false),
+  ('Buy bitcoin', true),
+  ('go to gym', false),
+  ('shower', false),
+  ('watch calum sleep', true),
+  ('leave calums house', false),
+  ('wash dishes', false),
+  ('laundry', false),
+  ('make bed', false),
+  ('walk dog', false),
+  ('vacuum', false),
+  ('mow the lawn', false),
+  ('work out', false),
+  ('make bed', false),
+  ('walk cat', false),
+  ('code', false),
+  ('go to gym', false),
+  ('Go to BootCamp UCI', false),
+  ('Clean house', false),
+  ('Code some more', false),
+  ('turn on robot vacumn', false),
+  ('mow the lawn', false),
+  ('split wood', false);

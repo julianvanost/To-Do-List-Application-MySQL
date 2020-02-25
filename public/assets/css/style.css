@@ -1,0 +1,14 @@
+.jumbotron {
+  margin: 5rem;
+  border: 1px solid rgb(45, 139, 247);
+  border-radius: 0.5rem;
+}
+
+.text-lg-right {
+  margin-top: .5rem;
+}
+
+.form-control {
+  border: 1px solid rgb(45, 139, 247);
+  margin-bottom: .5rem;
+}
